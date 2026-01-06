@@ -40,9 +40,9 @@ src/
 ## 🏃‍♂️ Getting Started
 
 1. **Clone the repo**
-```bash
-git clone [https://github.com/chrispaulrtv/nestjs-clean-architecture-boilerplate.git](https://github.com/chrispaulrtv/nestjs-clean-architecture-boilerplate.git)
-```
+
+> git clone [https://github.com/chrispaulrtv/nestjs-clean-architecture-boilerplate.git](https://github.com/chrispaulrtv/nestjs-clean-architecture-boilerplate.git)
+
 
 
 2. **Run Infrastructure**
