@@ -13,7 +13,6 @@ jobs:
     steps:
     - uses: actions/checkout@v3
 
-    # Instalamos pnpm en el runner
     - uses: pnpm/action-setup@v2
       with:
         version: 9
