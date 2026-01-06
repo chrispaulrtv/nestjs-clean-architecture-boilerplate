@@ -16,7 +16,7 @@ jobs:
     # Instalamos pnpm en el runner
     - uses: pnpm/action-setup@v2
       with:
-        version: 8
+        version: 9
 
     - name: Use Node.js 18
       uses: actions/setup-node@v3
